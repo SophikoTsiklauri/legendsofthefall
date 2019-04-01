@@ -1,0 +1,118 @@
+@media (max-width: 1200px){
+	.header_2 a{
+		font-size: 14px;
+		margin: 0;
+	}
+	.header_2 i{
+		margin-left: 0px;
+		font-size: 15px;
+	}
+	.row{
+		height: 300px;
+	}
+	.column{
+		height: 300px;
+	}
+	.over{
+	height: 75px;
+	}
+	.over2{
+		height: 186px;
+	}
+	.nika .over2 {
+	    height: 390px;
+	}
+	.time{
+		margin-left: 15%;
+	}
+}
+@media (max-width: 1000px){
+	.over{
+		height: 65px;
+	}
+	.navbar-toggle {
+	    display: block!important;
+	}
+	#bs-example-navbar-collapse-1{
+		display: none!important;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+		width: 40px;
+	    height: 7px;
+	}
+	.navbar-toggle .icon-bar+.icon-bar {
+	    margin-top: 5px!important;
+	} 
+    .navbar.navbar-default{
+    	width: 95%;
+    }
+    .header_2{
+    	display: none;
+    }
+    .blur h1 {
+    	font-size: 25px;
+    }
+    .over2{
+	height: 160px;
+	}
+	.nika .over2 {
+	    height: 370px;
+	}
+	.time{
+		margin-left: 10%;
+	}
+}
+@media (max-width: 800px){
+	.row{
+		height: 200px;
+	}
+	.column{
+		height: 200px;
+	}
+	.blur h1 {
+    	font-size: 15px;
+    }
+    .legend h4{
+    	font-size: 15px;
+    }
+    .over{
+	height: 20px;
+	}
+	.over2{
+		height: 140px;
+	}
+	.nika .over2 {
+	    height: 350px;
+	}
+	.gela, .tamuna{
+	height: 360px;
+	}
+	.nika{
+		height: 460px
+	}
+	.gela h2, .nika h2, .tamuna h2 {
+	    font-size: 25px;
+	}
+	.over2 p{
+		font-size: 10px;
+	}
+	.time{
+		display: none;
+	}
+}
+@media (max-width: 620px){
+	.gela, .tamuna{
+		height: 290px;}
+	.nika{
+		height: 400px
+	}
+	.gela h2, .nika h2, .tamuna h2 {
+    font-size: 15px;
+	}
+	.nika .over2 {
+	    height: 270px;
+	}
+	.over2 {
+	    height: 80px;
+	}
+}
