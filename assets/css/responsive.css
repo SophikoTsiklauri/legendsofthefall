@@ -44,7 +44,7 @@
 	    margin-top: 5px!important;
 	} 
     .navbar.navbar-default{
-    	width: 95%;
+    	width: 100%!important;
     }
     .header_2{
     	display: none;
@@ -102,17 +102,17 @@
 }
 @media (max-width: 620px){
 	.gela, .tamuna{
-		height: 290px;}
+		height: 250px;}
 	.nika{
-		height: 400px
+		height: 350px
 	}
 	.gela h2, .nika h2, .tamuna h2 {
     font-size: 15px;
 	}
 	.nika .over2 {
-	    height: 270px;
+	    height: 240px;
 	}
 	.over2 {
-	    height: 80px;
+	    height: 50px;
 	}
 }

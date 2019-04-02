@@ -29,6 +29,9 @@ a,button,h1,h4,h2,span{
 #navbutt{
 	float: right!important;
 }
+.navbar-header {
+    float: right!important;
+}
 .navbar.navbar-default {
 	margin-top: 20px;
 	display: inline-block;
@@ -201,7 +204,7 @@ a,button,h1,h4,h2,span{
 }
 .buttons button{
 	background-color: #F1AF08;
-	margin: 10px;
+	margin: 9px;
     width: 220px;
     height: 40px;
     border:none;
